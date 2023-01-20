@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: version package for Mozilla versioning system
+  description: An example of Python library
+  annotations:
+    github.com/project-slug: MihaiTabara/mozilla-version
+spec:
+  type: library
+  owner: MihaiTabara
+  lifecycle: experimental
