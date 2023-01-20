@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: version package
+  name: mozilla-version
   description: An example of Python library
   annotations:
     github.com/project-slug: MihaiTabara/mozilla-version
